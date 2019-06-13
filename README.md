@@ -1,5 +1,5 @@
 # newrelic-synthetics-management
-Python 2.714 script for enabling or disable one or more New Relic Synthetic checks.
+Python 2.7.14 script for enabling or disable one or more New Relic Synthetic checks.
 
 required packages: requests, argparse
 
